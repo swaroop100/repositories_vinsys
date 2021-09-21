@@ -1,0 +1,4 @@
+class newHello{
+new hello
+}
+
