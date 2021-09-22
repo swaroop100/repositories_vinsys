@@ -1,6 +1,7 @@
 
 ~
 public class hello1{
-	this is newly added
+
+	System.out.println("hello");
 }
 
